@@ -1,0 +1,175 @@
+{
+  "main": {
+    "id": "66998861db6bf46e",
+    "type": "split",
+    "children": [
+      {
+        "id": "c70c7bac18cd02a2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "011281ba9223c325",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Serverless/Configuration.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "78ad12e16a3f1d44",
+    "type": "split",
+    "children": [
+      {
+        "id": "b0cab1172800ba40",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b863e17e53a4fd79",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bebe6c0f00d4a3f0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b4b623a07e253494",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "73a9c313c495e0ea",
+    "type": "split",
+    "children": [
+      {
+        "id": "5554b00549132823",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "61099788e1c708c1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Serverless/Configuration.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "79cd976b5b387495",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Serverless/Configuration.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "013a59605181a03f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "25aa882925bad51a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Serverless/Configuration.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "b863e17e53a4fd79",
+  "lastOpenFiles": [
+    "Amphora",
+    "Serverless/WSGI.md",
+    "Serverless/Configuration.md",
+    "Serverless/Index.md",
+    "Serveless/WSGI.md",
+    "Serveless",
+    "Serveless/Configuration.md",
+    "Configuration.md",
+    "Python.md",
+    "Serverless.md",
+    "Django/Django.md",
+    "Serverless",
+    "Django/Advanced ORM.md",
+    "Django/Templates.md",
+    "Django/Views.md",
+    "Django/Creating a project.md",
+    "Django/ORM.md",
+    "Django/Routing.md",
+    "Django/Advanced.md",
+    "Advanced.md",
+    "Django",
+    "routing.md",
+    "().md"
+  ]
+}
